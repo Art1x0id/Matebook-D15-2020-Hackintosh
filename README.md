@@ -4,7 +4,7 @@ Huawei Matebook D15 2020 (BOHK-WAX9X) Hackintosh EFI 💻
 
 ### This repository contains an OpenCore-based EFI folder for Honor MagicBook 15 / Huawei MateBook D15 (AMD Ryzen 3500U). This configuration is optimized for daily use but has specific nuances due to the AMD mobile platform.
 
-<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 в 03 28 02" src="https://github.com/user-attachments/assets/152ed397-2fc7-468c-93d6-5b19f0979cd7" />
+<img width="1920" height="1080" alt="Снимок экрана 2026-03-27 в 11 29 47" src="https://github.com/user-attachments/assets/c8bd0ef7-27a2-480d-af0a-c168774ce8e8" />
 
 ## 💻 Hardware Specs
 
