@@ -59,7 +59,8 @@ USB Ports: All ports mapped correctly.
 ## ⚠️ Known Issues & Fixes
 Wallpapers: Use static images only. Dynamic wallpapers on Sonoma and higher will crash the system (NootedRed issue).
 
-Sleep/Wake: 100% stable on macOS Ventura. On Sonoma/Sequoia, occasional crashes may occur during deep sleep.
+Sleep/Wake: 100% stable on macOS Ventura. ~~On Sonoma/Sequoia, occasional crashes may occur during deep sleep.~~         
+On macOS Sonoma and higher, ***you MUST disable the Screen Saver.***
 
 Webcam: Detected as a USB device but does not output video.
 
