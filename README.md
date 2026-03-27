@@ -80,4 +80,4 @@ IMPORTANT: This EFI does not contain a serial number. To use iCloud/iMessage, yo
 The used SMBios was MacbookPro16,3. Heres how to do it: https://www.youtube.com/watch?v=8MsueH5EouQ.
 
 2. BIOS Settings
-Disable: Secure Boot, Fast Boot, TPM.
+Disable: Secure Boot, TPM.
